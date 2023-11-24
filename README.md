@@ -1,5 +1,5 @@
 # 🔎MONAMI 사이트 클론 코딩
-프로젝트 사이트 주소 : https://kjw-97.github.io/monami-clone-coding-project/
+프로젝트 사이트 주소 : https://kjw-97.github.io/monami-clone-coding-project/<br>
 모나미 사이트 주소 : http://www.monami.com/index.php
 
 <b>프로젝트 기간: 2023.11.20 ~ 2023.11.24</b>
